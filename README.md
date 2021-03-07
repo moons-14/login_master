@@ -1,4 +1,4 @@
-#DBは以下のコマンドで作成できます
+# DBは以下のコマンドで作成できます
 
 ```sql
 CREATE TABLE `user_data` (
